@@ -1,9 +1,9 @@
 # Referring Expression Comprehension
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
-|1|![dcgan_network](IM\1p1_1.png)|__Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding and Segmentation Method Modulated by Point__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2112.05375v1) [`Github`](https://github.com/kellyiss/situformer) |
-|2|![dcgan_network](IM\1p2_1.png)|__LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2306.08736v3) [`Github`](https://github.com/linfengyuan1997/losh) |
-|3|![dcgan_network](IM\1p3_1.png)|__Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2311.17048v3) [`Github`](https://github.com/show-han/zeroshot_rec) |
+|1|![dcgan_network](IM/1p1_1.png)|__Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding and Segmentation Method Modulated by Point__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2112.05375v1) [`Github`](https://github.com/kellyiss/situformer) |
+|2|![dcgan_network](IM/1p2_1.png)|__LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2306.08736v3) [`Github`](https://github.com/linfengyuan1997/losh) |
+|3|![dcgan_network](IM/1p3_1.png)|__Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2311.17048v3) [`Github`](https://github.com/show-han/zeroshot_rec) |
 # Object Detection
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
