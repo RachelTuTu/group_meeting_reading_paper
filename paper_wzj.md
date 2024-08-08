@@ -31,12 +31,17 @@
 | 15  | ![dcgan_network](IM/1p22.png) |__Open-Vocabulary Semantic Segmentation with Image Embedding Balancing__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Shan_Open-Vocabulary_Semantic_Segmentation_with_Image_Embedding_Balancing_CVPR_2024_paper.pdf) [`Github`](https://github.com/slonetime/ebseg)|
 | 16  | ![dcgan_network](IM/1p23.png) |__A Simple Recipe for Language-guided Domain Generalized Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Fahes_A_Simple_Recipe_for_Language-guided_Domain_Generalized_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/astra-vision/FAMix)|
 | 17  | ![dcgan_network](IM/1p24.png) |__AVSegFormer: Audio-Visual Segmentation with Transformer __| __CVPR 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/29104) [`Github`](https://github.com/vvvb-github/avsegformer)|
+| 18  | ![dcgan_network](IM/4j3.png)  |__SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation __| __CVPR 2024__ |[`Paper`](https://arxiv.org/abs/2311.15537) [`Github`](https://github.com/xb534/SED)|
+| 19  | ![dcgan_network](IM/4j4.png)  |__CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation __| __CVPR 2024__ |[`Paper`](https://arxiv.org/abs/2303.11797) [`Github`](https://github.com/KU-CVLAB/CAT-Seg) |
+| 20  | ![dcgan_network](IM/4j6.png)  |__Side Adapter Network for Open-Vocabulary Semantic Segmentation __| __CVPR 2023__ | [`Paper`](https://arxiv.org/abs/2302.12242) [`Github`](https://github.com/MendelXu/SAN) |
 # Zero-Shot
 | No. |            Figure             |Title   |     Pub.      |Link|         
 |:----|:-----------------------------:|:-----:|:-------------:|:---:|
 | 1   | ![dcgan_network](IM/1p25.png) |__Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Troika_Multi-Path_Cross-Modal_Traction_for_Compositional_Zero-Shot_Learning_CVPR_2024_paper.pdf) [`Github`](https://github.com/bighuang624/troika) |
 | 2   | ![dcgan_network](IM/1p26.png) |__Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning__| __AAAI 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/28518) [`Github`](https://www.catalyzex.com/paper/revealing-the-proximate-long-tail/code) |
 | 3   | ![dcgan_network](IM/1p27.png) |__Exploring Regional Clues in CLIP for Zero-Shot Semantic Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Exploring_Regional_Clues_in_CLIP_for_Zero-Shot_Semantic_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/Jittor/Jseg) |
+| 4   | ![dcgan_network](IM/4j7.png)  |__ZegCLIP: Towards Adapting CLIP for Zero-shot Semantic Segmentation__| __CVPR 2023__ |[`Paper`](https://arxiv.org/abs/2212.03588) [`Github`](https://github.com/ZiqinZhou66/ZegCLIP) |
+| 5   | ![dcgan_network](IM/4j8.png)  |__Primitive Generation and Semantic-related Alignment for Universal Zero-Shot Segmentation__| __CVPR 2023__ |[`Paper`](https://arxiv.org/abs/2306.11087) [`Github`](https://github.com/heshuting555/PADing) |
 # Unsupervised
 |No.   |            Figure             |Title   |     Pub.      |Link|         
 |:----|:-----------------------------:|:-----:|:-------------:|:---:|
@@ -52,3 +57,9 @@
 | 6   | ![dcgan_network](IM/2p6.png) |__Learnable Prompt for Few-Shot Semantic Segmentation in Remote Sensing Domain__| __CVPRW 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Immanuel_Learnable_Prompt_for_Few-Shot_Semantic_Segmentation_in_Remote_Sensing_Domain_CVPRW_2024_paper.html) [`Github`](https://github.com/SteveImmanuel/OEM-Few-Shot-Learnable-Prompt)|
 | 7   | ![dcgan_network](IM/2p7.png) |__RS-CLIP: Zero shot remote sensing scene classification via contrastive vision-language supervision__| __ISPRS 2023__ |[`Paper`](https://www.sciencedirect.com/science/article/pii/S1569843223003217) |
 | 8   | ![dcgan_network](IM/2p8.png) |__Robust deep alignment network with remote sensing knowledge graph for zero-shot and generalized zero-shot remote sensing image scene classification - ScienceDirect__| __ISPRS 2021__ |[`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S092427162100201X) [`Github`](https://github.com/kdy2021/SR-RSKG)|
+| 9   | ![dcgan_network](IM/4j1.png) |__Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment__| __Arxiv 2021__ |[`Paper`](https://arxiv.org/pdf/2402.09816) |
+| 10  | ![dcgan_network](IM/4j2.png) |__Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning__| __Arxiv 2023__ |[`Paper`](https://arxiv.org/pdf/2311.11646) |
+# VLMs
+| No. |            Figure            |Title   |      Pub.      |Link|          
+|:----|:----------------------------:|:-----:|:--------------:|:---:|
+| 1   | ![dcgan_network](IM/4j5.png) |__One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models__| __CVPR 2024__  |[`Paper`](https://arxiv.org/abs/2403.01849) [`Github`](https://github.com/TreeLLi/APT) |
