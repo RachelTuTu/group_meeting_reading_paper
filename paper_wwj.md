@@ -51,3 +51,5 @@
 |14|![dcgan_network](IM/4w6.png)|__UNETR++: Delving into Efficient and Accurate 3D Medical Image Segmentation__|__IEEE 2024__|[`Paper`](https://arxiv.org/pdf/2212.04497v3) [`Github`](https://github.com/amshaker/unetr_plus_plus)|
 |15|![dcgan_network](IM/4w7.png)|__PromptKD: Unsupervised Prompt Distillation for Vision-Language Models__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2403.02781v4) [`Github`](https://github.com/zhengli97/promptkd)|
 |16|![dcgan_network](IM/4w8.png)|__VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysiss__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2402.17300v2) [`Github`](https://github.com/luffy03/voco)|
+|17|![dcgan_network](IM\5w1.png)|__Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2404.11732v1) [`Github`](https://github.com/rayat137/VisualPromptGFSS)|
+|18|![dcgan_network](IM\5w2.png)|__Clustering Propagation for Universal Medical Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2403.16646v1) [`Github`](https://github.com/dyh127/s2vnet)|
