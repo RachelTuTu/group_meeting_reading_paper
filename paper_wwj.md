@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2280c585-78b0-46f9-888e-1e8017f7c979)# Referring Expression Comprehension
+# Referring Expression Comprehension
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
 |1|![dcgan_network](IM/1p1_1.png)|__Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding and Segmentation Method Modulated by Point__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2112.05375v1) [`Github`](https://github.com/kellyiss/situformer) |
