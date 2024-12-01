@@ -1,16 +1,9 @@
-# Referring Image Segmentation
-|No.   |            Figure            |Title   |     Pub.      |Link|         
-|:----|:----------------------------:|:-----:|:-------------:|:---:|
-|1| ![dcgan_network](IM/1p1.png) |__Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/lsan2401/rmsin) |
-|2| ![dcgan_network](IM/1p2.png) |__Referring Image Editing: Object-level Image Editing via Referring Expressions__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)  |
-|3| ![dcgan_network](IM/1p3.png) |__Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Decoupling_Static_and_Hierarchical_Motion_Perception_for_Referring_Video_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/heshuting555/DsHmp) |
-|4| ![dcgan_network](IM/1p4.png) |__ScanFormer: Referring Expression Comprehension by Iteratively Scanning__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Su_ScanFormer_Referring_Expression_Comprehension_by_Iteratively_Scanning_CVPR_2024_paper.pdf)  |
-|5| ![dcgan_network](IM/1p5.png) |__X-RefSeg3D: Enhancing Referring 3D Instance Segmentation via Structured Cross-Modal Graph Neural Networks__| __AAAI 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/28254) [`Github`](https://github.com/qzp2018/X-RefSeg3D) |
 # Object Detection
 |No.   |            Figure            |Title   |     Pub.      |Link|         
 |:----|:----------------------------:|:-----:|:-------------:|:---:|
 |1| ![dcgan_network](IM/1p6.png) |__GroundVLP: Harnessing Zero-Shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection__| __AAAI 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/28278) [`Github`](https://github.com/om-ai-lab/groundvlp) |
 |2| ![dcgan_network](IM/1p7.png) |__Zero-Shot Aerial Object Detection with Visual Description Regularization__| __AAAI 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/28518) [`Github`](https://github.com/zq-zang/DescReg) |
+| 3   | ![dcgan_network](IM/5j3.png) |__LOG-CAN: LOCAL-GLOBAL CLASS-AWARE NETWORK FOR SEMANTIC SEGMENTATION OF REMOTE SENSING IMAGES__| __IEEE 2024__ |[`Paper`](https://ieeexplore.ieee.org/document/10095835)  [`Github`](https://github.com/xwmaxwma/rssegmentation)|
 # Segmentation
 | No. |            Figure             |Title   |     Pub.      |Link|         
 |:----|:-----------------------------:|:-----:|:-------------:|:---:|
@@ -59,6 +52,14 @@
 | 8   | ![dcgan_network](IM/2p8.png) |__Robust deep alignment network with remote sensing knowledge graph for zero-shot and generalized zero-shot remote sensing image scene classification - ScienceDirect__| __ISPRS 2021__ |[`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S092427162100201X) [`Github`](https://github.com/kdy2021/SR-RSKG)|
 | 9   | ![dcgan_network](IM/4j1.png) |__Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment__| __Arxiv 2021__ |[`Paper`](https://arxiv.org/pdf/2402.09816) |
 | 10  | ![dcgan_network](IM/4j2.png) |__Toward Open Vocabulary Aerial Object Detection with CLIP-Activated Student-Teacher Learning__| __Arxiv 2023__ |[`Paper`](https://arxiv.org/pdf/2311.11646) |
+| 11   | ![dcgan_network](IM/5j1.png) |__Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation__| __CVPR 2023__ |[`Paper`](https://arxiv.org/abs/2409.13637) [`Github`](https://github.com/Shaosifan/FIANet) |
+|12| ![dcgan_network](IM/1p1.png) |__Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Rotated_Multi-Scale_Interaction_Network_for_Referring_Remote_Sensing_Image_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/lsan2401/rmsin) |
+|13| ![dcgan_network](IM/1p2.png) |__Referring Image Editing: Object-level Image Editing via Referring Expressions__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Referring_Image_Editing_Object-level_Image_Editing_via_Referring_Expressions_CVPR_2024_paper.pdf)  |
+|14| ![dcgan_network](IM/1p3.png) |__Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Decoupling_Static_and_Hierarchical_Motion_Perception_for_Referring_Video_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/heshuting555/DsHmp) |
+|15| ![dcgan_network](IM/1p4.png) |__ScanFormer: Referring Expression Comprehension by Iteratively Scanning__| __CVPR 2024__ |[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Su_ScanFormer_Referring_Expression_Comprehension_by_Iteratively_Scanning_CVPR_2024_paper.pdf)  |
+|16| ![dcgan_network](IM/1p5.png) |__X-RefSeg3D: Enhancing Referring 3D Instance Segmentation via Structured Cross-Modal Graph Neural Networks__| __AAAI 2024__ |[`Paper`](https://ojs.aaai.org/index.php/AAAI/article/view/28254) [`Github`](https://github.com/qzp2018/X-RefSeg3D) |
+| 17   | ![dcgan_network](IM/5j2.png) |__PECR:PARAMETER-EFFICIENT TRANSFER LEARNING WITH CROSS-MODAL REPRESENTATION LEARNING FOR REMOTE SENSING VISUAL QUESTION ANSWERING__| __IEEE 2024__ |    [`Paper`](https://ieeexplore.ieee.org/abstract/document/10446146)    
+| 18   | ![dcgan_network](IM/5j4.png) |__RS-DETR: An Improved Remote Sensing Object Detection Model Based on RT-DETR__| __MDPI 2024__ |       [`Paper`](https://www.mdpi.com/2076-3417/14/22/10331)   |
 # VLMs
 | No. |            Figure            |Title   |      Pub.      |Link|          
 |:----|:----------------------------:|:-----:|:--------------:|:---:|
