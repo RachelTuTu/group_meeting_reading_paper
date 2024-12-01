@@ -5,6 +5,7 @@
 |2|![dcgan_network](IM/1p2_1.png)|__LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2306.08736v3) [`Github`](https://github.com/linfengyuan1997/losh) |
 |3|![dcgan_network](IM/1p3_1.png)|__Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2311.17048v3) [`Github`](https://github.com/show-han/zeroshot_rec) |
 |4|![dcgan_network](IM/6w2.png)|__GRES: Generalized Referring Expression Segmentation__|__CVPR 2023__|[`Paper`](https://arxiv.org/pdf/2306.00968v1) [`Github`](https://github.com/henghuiding/ReLA) |
+|5|![dcgan_network](IM/6w4.png)|__Mask Grounding for Referring Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.12198) [`Github`](https://github.com/yxchng/mask-grounding) |
 # Object Detection
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
@@ -58,3 +59,4 @@
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
 |1|![dcgan_network](IM/6w1.png)|__RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation__|__IEEE Geoscience and Remote Sensing Letters 2024__|[`Paper`](https://arxiv.org/pdf/2404.02457v1) [`Github`](https://github.com/sstary/ssrs) |
+|2|![dcgan_network](IM/6w3.png)|__Cross-Modal Bidirectional Interaction Model for Referring Remote Sensing Image Segmentation__|__ 2025__|[`Paper`](https://arxiv.org/pdf/2410.08613) [`Github`](https://github.com/HIT-SIRS/CroBIM) |
