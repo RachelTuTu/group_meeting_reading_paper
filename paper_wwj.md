@@ -5,7 +5,9 @@
 |2|![dcgan_network](IM/1p2_1.png)|__LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2306.08736v3) [`Github`](https://github.com/linfengyuan1997/losh) |
 |3|![dcgan_network](IM/1p3_1.png)|__Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2311.17048v3) [`Github`](https://github.com/show-han/zeroshot_rec) |
 |4|![dcgan_network](IM/6w2.png)|__GRES: Generalized Referring Expression Segmentation__|__CVPR 2023__|[`Paper`](https://arxiv.org/pdf/2306.00968v1) [`Github`](https://github.com/henghuiding/ReLA) |
-|5|![dcgan_network](IM/6w4.png)|__Mask Grounding for Referring Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.12198) [`Github`](https://github.com/yxchng/mask-grounding) |
+|5|![dcgan_network](IM/6w4.png)|__Mask Grounding for Referring Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.12198) [`Github`](https://github.com/lsa1997/CARIS) |
+|6|![dcgan_network](IM/7w1.png)|__CARIS: Context-Aware Referring Image Segmentation__|__ACM 2023__|[`Paper`](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) [`Github`](https://github.com/yxchng/mask-grounding ) |
+|7|![dcgan_network](IM/7w2.png)|__Contrastive Grouping with Transformer for Referring Image Segmentation__|__CVPR 2023__|[`Paper`](https://arxiv.org/pdf/2309.01017v1)) [`Github`](https://github.com/SooLab/CGFormer) |
 # Object Detection
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
