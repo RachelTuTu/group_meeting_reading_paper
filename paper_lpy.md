@@ -21,3 +21,6 @@
 |17|![bi](IM/5p3.png)|__GSVA: Generalized Segmentation via Multimodal Large Language Models__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Xia_GSVA_Generalized_Segmentation_via_Multimodal_Large_Language_Models_CVPR_2024_paper.pdf) [`Github`](https://github.com/LeapLabTHU/GSVA)|
 |18|![bi](IM/5p5.png)|__Poly Kernel Inception Network for Remote Sensing Detection__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_Poly_Kernel_Inception_Network_for_Remote_Sensing_Detection_CVPR_2024_paper.pdf) [`Github`](https://github.com/NUST-Machine-Intelligence-Laboratory/PKINet)|
 |19|![bi](IM/5p4.png)|__Deep Instruction Tuning for Segment Anything Model__|__ACM Multimedia 2024__|[`Paper`](https://arxiv.org/pdf/2404.00650) [`Github`](https://github.com/wysnzzzz/DIT)|
+|20|![bi](IM/6p1.png)|__A Simple Baseline with Single-encoder for Referring Image Segmentation__|__arxiv 2024__|[`Paper`](https://arxiv.org/pdf/2408.15521)|
+|21|![bi](IM/6p2.png)|__SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation__|__CVPR 2024__|[`Paper`](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.pdf) [`Github`](https://github.com/xb534/SED)|
+
