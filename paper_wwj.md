@@ -1,4 +1,4 @@
-# Referring Expression Comprehension
+![image](https://github.com/user-attachments/assets/a7d99c39-9ff6-4bd2-852f-2d79b3d0cd38)# Referring Expression Comprehension
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
 |1|![dcgan_network](IM/1p1_1.png)|__Rethinking Two-Stage Referring Expression Comprehension: A Novel Grounding and Segmentation Method Modulated by Point__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2112.05375v1) [`Github`](https://github.com/kellyiss/situformer) |
@@ -8,6 +8,8 @@
 |5|![dcgan_network](IM/6w4.png)|__Mask Grounding for Referring Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2312.12198) [`Github`](https://github.com/lsa1997/CARIS) |
 |6|![dcgan_network](IM/7w1.png)|__CARIS: Context-Aware Referring Image Segmentation__|__ACM 2023__|[`Paper`](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) [`Github`](https://github.com/yxchng/mask-grounding ) |
 |7|![dcgan_network](IM/7w2.png)|__Contrastive Grouping with Transformer for Referring Image Segmentation__|__CVPR 2023__|[`Paper`](https://arxiv.org/pdf/2309.01017v1) [`Github`](https://github.com/SooLab/CGFormer) |
+|8|![dcgan_network](IM/8w2.png)|__Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation__|__AAAI 2025__|[`Paper`](https://arxiv.org/pdf/2501.08580) [`Github`](https://github.com/jiaqihuang01/DETRIS) |
+|9|![dcgan_network](IM/8w3.png)|__Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation__|__CVPR 2025__|[`Paper`](https://arxiv.org/pdf/2504.00356) [`Github`](https://github.com/fhgyuanshen/HybridGL) |
 # Object Detection
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
@@ -57,6 +59,7 @@
 |16|![dcgan_network](IM/4w8.png)|__VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysiss__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2402.17300v2) [`Github`](https://github.com/luffy03/voco)|
 |17|![dcgan_network](IM/5W1.png)|__Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2404.11732v1) [`Github`](https://github.com/rayat137/VisualPromptGFSS)|
 |18|![dcgan_network](IM/5W2.png)|__Clustering Propagation for Universal Medical Image Segmentation__|__CVPR 2024__|[`Paper`](https://arxiv.org/pdf/2403.16646v1) [`Github`](https://github.com/dyh127/s2vnet)|
+|19|![dcgan_network](IM/8w1.png)|__TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning__|__AAAI 2025__|[`Paper`](https://arxiv.org/pdf/2412.08176) [`Github`](https://github.com/xjjxmu/textrefiner)|
 # Remote Sense
 |No.   |Figure   |Title   |Pub.  |Link|         
 |:----|:-----:|:-----:|:-----:|:---:|
